@@ -6,3 +6,8 @@ The sensor case presented here is designed based on the dimensions of the NanoSe
 1. A [base](https://github.com/giuseppesanseverino/CADmodels/blob/main/ForceSensorEnclosure/Base_SensCase_v2.stl), where the sensor is placed.
 2. A [button](https://github.com/giuseppesanseverino/CADmodels/blob/main/ForceSensorEnclosure/Button_SensCase%20v1.stl), which is placed on top of the sensor after it is inserted into the base.
 3. A [top ring](https://github.com/giuseppesanseverino/CADmodels/blob/main/ForceSensorEnclosure/Top_SensCase_v2.stl), which can be pressed onto the base, securely encapsulating the sensor.
+
+## License
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

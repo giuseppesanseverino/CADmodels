@@ -16,8 +16,6 @@ This repository contains CAD models and 3D design files developed for research a
 Each project folder contains its own `README.md` with specific details and related files (e.g., STL or STEP).
 
 ## License
-
-## License
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

@@ -9,6 +9,7 @@ This repository contains CAD models and 3D design files developed for research a
 | :--- | :--- |
 | **[BicycledataSensorBox](./BicycledataSensorBox)** | Rugged enclosure for a Raspberry Pi-based data logger. Developed during a research stay at **VTI** (Linköping) in March 2026. |
 | **[ForceSensorEnclosure](./ForceSensorEnclosure)** | Custom housing and mounting solutions for force-sensing hardware (NanoSen PCN Sensors). |
+| **[VeloXR](./VeloXR)** | Custom holders for mounting Arduino UNO R3 microcontroller to the bottlecage mounts of a bicycle, and custom magnets holders to attach magnets to the spokes of a bicycle wheel. |
 
 ---
 
